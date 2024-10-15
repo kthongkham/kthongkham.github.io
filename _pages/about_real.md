@@ -1,11 +1,11 @@
 ---
-layout: about
-title: about
-permalink: /about/
+layout: page
+title: home
+permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: center
   image: #profile_KhunanonThongkhamLuke.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
