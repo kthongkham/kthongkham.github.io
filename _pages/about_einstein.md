@@ -1,1 +1,3 @@
-In progress
+Hi! I am a postdoctoral researcher at the National Astronomical Research Institute of Thailand (NARIT). I recently graduated from the University of Florida (UF) with a Ph.D. in Astronomy. My main research interest is extragalactic astronomy including topics such as large-scale struture, galaxy evolution, and cosmology. I have worked on detecting galaxy clusters using galaxy catalogs in optical and infrared wavelength. Currently, I am involved in many follow-up projects for the galaxy cluster catalog I help created. With all that said, I am in the job market in 2024-2025.
+
+Before earning the Ph.D., I also got my master's degree at UF. Prior to that, I received by my bachelor's degree in Physics and Astronomy at the University of Colorado at Boulder.
